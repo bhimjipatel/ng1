@@ -1,0 +1,31 @@
+repo_name: bhimjipatel/ng1
+report_id: 5f8033486978ffee2541cf3a46bd8538
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-19T07:16:54+00:00'
+requested_by: bhimjipatel
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: docs/polyfills.7a0e6866a34e280f48e7.js
+  last_updated_by: Bhimji Patel
+  last_updated_on: 2018-09-03 22:06:29.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
